@@ -1,3 +1,3 @@
 Dobrý den,
 
-z důvodu nemožného nahrání souboru .zip do systému dipsy, jsem vytvořil tento github repozitář s mým portfoliem v souboru
+z důvodu nemožného nahrání souboru .zip do systému dipsy jsem vytvořil tento github repozitář s mým portfoliem v souboru "Sadilek_portfolio_ssps.zip"
